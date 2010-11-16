@@ -1,0 +1,5 @@
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\Retro-Sharp\Retro-Sharp\bin\Debug\Retro-Sharp.exe
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\Retro-Sharp\Retro-Sharp\bin\Debug\Retro-Sharp.pdb
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\Retro-Sharp\Retro-Sharp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\Retro-Sharp\Retro-Sharp\obj\x86\Debug\Retro-Sharp.exe
+C:\Users\Dominik\Documents\Visual Studio 2010\Projects\Retro-Sharp\Retro-Sharp\obj\x86\Debug\Retro-Sharp.pdb
